@@ -1,4 +1,4 @@
- """
+"""
 MAPPING.PY - El Corazón Legal del Auditor
 Autor: CodexPromptusIuris
 Descripción: Vincula normas jurídicas (Chile/ISO) con funciones técnicas de validación.
